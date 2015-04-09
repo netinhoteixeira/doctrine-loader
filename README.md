@@ -1,5 +1,7 @@
-# doctrine-loader
+# ![doctrine-loader](https://raw.githubusercontent.com/netinhoteixeira/doctrine-loader/master/resources/doctrine-loader.png) doctrine-loader
+
 ### Easy bootstraper for Doctrine ORM (independent of version)
+
 If you have an old PHP 5.2 server, it's auto changes to Doctrine ORM 1.2.3, if you have a newest PHP 5.3 server, changes to Doctrine ORM 2.0.0.
 
 #### Example
